@@ -108,3 +108,7 @@ C:\learning\GigHub2\obj\Debug\GigHub2.dll
 C:\learning\GigHub2\obj\Debug\GigHub2.pdb
 C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.Initialodel.resources
 C:\learning\GigHub2\obj\Debug\GigHub2.csproj.GenerateResource.cache
+C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.CreateGigTable.resources
+C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.OverrideConventionsforGigsAndGenres.resources
+C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.OvverideConventionforGigsOnceMore.resources
+C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.OvverideConventionforGigsOnceMore1.resources
