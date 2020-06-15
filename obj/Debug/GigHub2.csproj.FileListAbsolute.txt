@@ -246,3 +246,4 @@ C:\learning\GigHub2\bin\System.Reflection.Metadata.xml
 C:\learning\GigHub2\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\learning\GigHub2\bin\System.Text.Encodings.Web.xml
 C:\learning\GigHub2\bin\System.Threading.Tasks.Extensions.xml
+C:\learning\GigHub2\obj\Debug\GigHub2.Migrations.AddForeignKeyPropertiesToGig.resources
